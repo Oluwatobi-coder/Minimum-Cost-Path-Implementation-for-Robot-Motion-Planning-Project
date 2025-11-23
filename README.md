@@ -16,7 +16,7 @@ The project integrates with **CoppeliaSim (formerly V-REP)** simulator to visual
 
 - **Language:** Python
 - **Libraries/Modules:** csv, heapq, os, collections (all part of the Python Standard library, no external installation required). 
-- **Simulation Tool:** CoppeliaSim (Edu Version)
+- **Simulation Tool:** CoppeliaSim
 
 ---
 
