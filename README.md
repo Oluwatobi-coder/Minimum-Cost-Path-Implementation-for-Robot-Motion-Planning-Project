@@ -40,9 +40,10 @@ $h(n)$ (Heuristic Cost): The estimated cost of the cheapest path from node $n$ t
 │ ├── nodes.csv
 │ ├── obstacles.csv
 │ └── path.csv # solution path output by the program
+├── LICENSE
 ├── README.md
-└── recording_A_star_search_robot_planner_simulation.avi
-└── Scene5_motion_planning.ttt
+├── recording_A_star_search_robot_planner_simulation.avi
+├── Scene5_motion_planning.ttt
 └── screenshot_A_star_search_robot_planner.png
 </pre>
     
