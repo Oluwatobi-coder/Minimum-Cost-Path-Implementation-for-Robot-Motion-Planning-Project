@@ -73,9 +73,9 @@ $h(n)$ (Heuristic Cost): The estimated cost of the cheapest path from node $n$ t
 2.  **Navigate to the project directory:**
 
     ```bash
-    cd A_Star_Path_Planner
+    cd Minimum-Cost-Path-Implementation-for-Robot-Motion-Planning-Project
     ```
-3.  **Execute the Motion Planner:** 
+3.  **Execute the Motion Planner Program:** 
     
     Run the following command:
 
