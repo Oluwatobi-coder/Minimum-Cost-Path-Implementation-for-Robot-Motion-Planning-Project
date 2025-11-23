@@ -68,7 +68,7 @@ $h(n)$ (Heuristic Cost): The estimated cost of the cheapest path from node $n$ t
     Open the terminal and run the following command:
 
     ```bash
-    git clone [https://github.com/yourusername/A_Star_Path_Planner.git](https://github.com/Oluwatobi-coder/Minimum-Cost-Path-Implementation-for-Robot-Motion-Planning-Project.git)
+    git clone https://github.com/Oluwatobi-coder/Minimum-Cost-Path-Implementation-for-Robot-Motion-Planning-Project.git
     ```
 2.  **Navigate to the project directory:**
 
