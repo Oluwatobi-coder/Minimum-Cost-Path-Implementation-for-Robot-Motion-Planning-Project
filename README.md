@@ -106,7 +106,7 @@ The primary output is the file **`path.csv`**, which is a single line containing
 
 ## 🌐 Simulation (CoppeliaSim)
 - To visualize the path in CoppeliaSim:
-1. Open the `Scene5_motion_planning.ttt` in CoppeliaSim.
+1. Open the `Scene5_motion_planning.ttt` scene file in CoppeliaSim.
 2. Start the Simulation, then copy and paste the absolute path of the `results` directory in the field provided and click the **Open Files** button.
 3. Press play to see the mobile robot (Kilobot) traverse the calculated minimum-cost path.
 
