@@ -68,7 +68,7 @@ $h(n)$ (Heuristic Cost): The estimated cost of the cheapest path from node $n$ t
     Open the terminal and run the following command:
 
     ```bash
-    git clone https://github.com/yourusername/A_Star_Path_Planner.git
+    git clone [https://github.com/yourusername/A_Star_Path_Planner.git](https://github.com/Oluwatobi-coder/Minimum-Cost-Path-Implementation-for-Robot-Motion-Planning-Project.git)
     ```
 2.  **Navigate to the project directory:**
 
@@ -114,7 +114,7 @@ The primary output is the file **`path.csv`**, which is a single line containing
 
 ## 📸 Screenshot
 
-Include a screenshot showing your solution path visualized in CoppeliaSim under the `results/` directory or link here.
+![CoppeliaSim Image of the Solution Path](screenshot_A_star_search_robot_planner.png)
 
 ---
 
