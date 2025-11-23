@@ -22,9 +22,10 @@ The project integrates with CoppeliaSim (formerly V-REP) simulator to visualize 
 
 ## 📐 A* Search Implementation
 The core of the project is the A* search algorithm, which minimizes the total estimated path cost: 
-- $f(n) = g(n) + h(n)$, where:
-- $g(n)$ (Past Cost): The actual cost of the path from the start node to node $n$.
-- $h(n)$ (Heuristic Cost): The estimated cost of the cheapest path from node $n$ to the goal node.
+
+$f(n) = g(n) + h(n)$, where:
+$g(n)$ (Past Cost): The actual cost of the path from the start node to node $n$.
+$h(n)$ (Heuristic Cost): The estimated cost of the cheapest path from node $n$ to the goal node.
 
 ---
 
@@ -41,7 +42,7 @@ The core of the project is the A* search algorithm, which minimizes the total es
 └── recording_A_star_search_robot_planner_simulation.avi
 └── Scene5_motion_planning.ttt
 └── screenshot_A_star_search_robot_planner.png
-<pre>
+</pre>
     
 ---
 
