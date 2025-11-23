@@ -34,7 +34,7 @@ $h(n)$ (Heuristic Cost): The estimated cost of the cheapest path from node $n$ t
 ## 📁 Project Folder Structure
 <pre>
 ├── code/
-│ ├── a_star_search_algorithm.py # Main Python program implementing A* search
+│ ├── a_star_search_algorithm.py # Python program implementing A* search algorithm
 ├── results/
 │ ├── edges.csv
 │ ├── nodes.csv
