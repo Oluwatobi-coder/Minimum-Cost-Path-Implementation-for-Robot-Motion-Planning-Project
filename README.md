@@ -112,7 +112,7 @@ The primary output is the file **`path.csv`**, which is a single line containing
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshot of the Solution Path
 
 ![CoppeliaSim Image of the Solution Path](screenshot_A_star_search_robot_planner.png)
 
