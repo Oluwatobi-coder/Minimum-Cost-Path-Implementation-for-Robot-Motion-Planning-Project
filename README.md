@@ -1,29 +1,29 @@
 # Minimum Cost Path Implementation for Robot Motion Planning Project 🤖
 
-This repository contains my implementation of the A* graph search algorithm for optimizing the path for a robot motion, developed as a programming project for the Coursera course "Modern Robotics, Course 4: Robot Motion Planning and Control."
+This repository contains my implementation of the **A\* search algorithm** for optimizing the path for a robot motion, developed as a programming project for the Coursera course "Modern Robotics, Course 4: Robot Motion Planning and Control."
 
 ---
 
 ## 💡 Project Overview 
 
-The A* Graph Search Project requires implementing the A* search algorithm to find a minimum-cost path on an undirected weighted graph. The graph nodes and edges are specified in CSV files, and the program outputs the minimum-cost path from a start node (node 1) to a goal node (node N) as a sequence of nodes.
+The Minimum Cost Path Implementation for Robot Motion Planning Project requires implementing the A* search algorithm to find a minimum-cost path on an undirected weighted graph. The graph nodes and edges are specified in CSV files, and the program outputs the minimum-cost path from a start node (node 1) to a goal node (node N) as a sequence of nodes.
 
-The project integrates with CoppeliaSim (formerly V-REP) simulator to visualize the graph, obstacles, and the resulting path, for the demonstration of the solution path with a mobile robot (Kilobot).
+The project integrates with **CoppeliaSim (formerly V-REP)** simulator to visualize the graph, obstacles, and the resulting path, for the demonstration of the solution path with a mobile robot (Kilobot).
 
 ---
 
 ## 🛠️ Technology Used
 
-- Language: Python
-- Libraries: csv, heapq, os, collections (all standard Python libraries, no external installation required). 
-- Simulation Tool: CoppeliaSim Edu
+- **Language:** Python
+- **Libraries:** csv, heapq, os, collections (all standard Python libraries, no external installation required). 
+- **Simulation Tool:** CoppeliaSim (Edu Version)
 
 ---
 
 ## 📐 A* Search Implementation
-The core of the project is the A* search algorithm, which minimizes the total estimated path cost: 
+The core of the project is the A* search algorithm, which minimizes the **total estimated path cost:** 
 
-$f(n) = g(n) + h(n)$, where:
+**$f(n) = g(n) + h(n)$**, where:
 
 $g(n)$ (Past Cost): The actual cost of the path from the start node to node $n$.
 
